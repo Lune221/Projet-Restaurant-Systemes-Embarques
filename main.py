@@ -1,1 +1,0 @@
-print("Bienvenue dans l'application de gestion des tickets du restaurant")
